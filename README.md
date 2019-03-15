@@ -29,7 +29,6 @@ To get started with the quickstart application follow these steps. Steps 1-6 wil
 
 ### <a name="bullet1"></a>1. Install the TwilioVoice framework
 
-**Carthage**
 
 Add the following line to your Cartfile
 
