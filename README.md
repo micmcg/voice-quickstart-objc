@@ -16,9 +16,9 @@ To get started with the quickstart application follow these steps. Steps 1-6 wil
 
 1. [Install the TwilioVoice framework](#bullet1)
 2. [Create a Voice API key](#bullet2)
-3. [Configure a server to generate an access token to be used in the app](#bullet3)
-4. [Create a TwiML application](#bullet4)
-5. [Configure your application server](#bullet5)
+3. [Configure a server to generate an access token to be used in the website](#bullet3)
+4. [Create a TwiML app](#bullet4)
+5. [Configure your application](#bullet5)
 6. [Run the app](#bullet6)
 7. [Create a VoIP Service Certificate](#bullet7)
 8. [Create a Push Credential with your VoIP Service Certificate](#bullet8)
