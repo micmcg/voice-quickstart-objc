@@ -23,6 +23,7 @@ To get started with the quickstart application follow these steps. Steps 1-6 wil
 7. [Create a VoIP Service Certificate](#bullet7)
 8. [Create a Push Credential with your VoIP Service Certificate](#bullet8)
 9. [Configure Xcode project settings for VoIP push notifications](#bullet9)
+9.5. [The call is coming from inside the house](#bullet10)
 10. [Receive an incoming call](#bullet10)
 11. [Make client to client call](#bullet11)
 
