@@ -4,13 +4,11 @@
 > To use a generally available version of the Programmable Voice SDKs for iOS please see the [master](https://github.com/twilio/video-quickstart-objc/tree/master) branch based on the 2.X APIs.
 
 ## Get started with Voice on iOS:
-* [Quickstart](#quickstart) - Run the quickstart app
 * [New Features](#new-features) - New features in 3.X
 * [Migration Guide](#migration-guide) - Migrating from 2.X to 3.X
 * [Access Tokens](#access-tokens) - Using access tokens
 * [Managing Audio Interruptions](#managing-audio-interruptions) - Managing audio interruptions
 * [Managing Push Credentials](#managing-push-credentials) - Managing push credentials
-* [More Documentation](#more-documentation) - More documentation related to the Voice iOS SDK
 * [Issues and Support](#issues-and-support) - Filing issues and general support
 
 ## Quickstart
