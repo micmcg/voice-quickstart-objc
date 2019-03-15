@@ -25,7 +25,6 @@ To get started with the quickstart application follow these steps. Steps 1-6 wil
 9. [Configure Xcode project settings for VoIP push notifications](#bullet9)
 10. [Receive an incoming call](#bullet10)
 11. [Make client to client call](#bullet11)
-12. [Make client to PSTN call](#bullet12)
 
 ### <a name="bullet1"></a>1. Install the TwilioVoice framework
 
